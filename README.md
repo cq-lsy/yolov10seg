@@ -1,9 +1,10 @@
+## Benchmark on NVIDIA Jetson NX
 
-## test on nvidia jeston nx
-| Model | Test Size  | Latency |
-|:---------------|:----:|:---:|:--:|:--:|:--:|
-| yolov8s-seg |   640    | 40ms |
-| yolov10n-seg |   640   |  10ms |
-| yolov10s-seg |   640  | 25ms |
+| Model          | Input Size | Latency (ms) |
+|:---------------|:---------:|:-----------:|
+| YOLOv8s-seg    | 640×640   | 40          |
+| YOLOv10n-seg   | 640×640   | 10          |
+| YOLOv10s-seg   | 640×640   | 25          |
+
 
 
